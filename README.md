@@ -72,4 +72,16 @@ a fancy Ex:
 
 
 
+## Testing
 
+run:
+
+```
+go test ./... -v
+```
+
+
+
+## Acknowledge
+
+Anthony GG for his Async Await wrapper over channels ([give a look](https://www.youtube.com/watch?v=0HmwIOkBsLk))
