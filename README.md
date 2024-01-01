@@ -1,8 +1,16 @@
 # About Bariq
 
-Bariq is a Golang interpreter for a simple functional programming language. The language incorporates immutable data structures and includes essential data structures such as arrays and hash tables. I implemented a parser from scratch and this all guided by the awesome book by Thorstem ball [WaIGo](https://interpreterbook.com/)
+Bariq is a Golang interpreter for a simple programming language. The language incorporates immutable data structures and includes essential ones such as arrays and hash tables all guided by the awesome book by Thorstem ball [WaIGo](https://interpreterbook.com/).
 
-The interpreter supports advanced features such as closures and first-class functions, which allow for more expressive and flexible programming. Additionally, I intend to add asynchronous support, type checking, and module functionality.
+The interpreter supports advanced features such as closures and first-class functions, Adding Async-Await, Generators support for now.
+
+# TODO
+
+- [x]  Async-Await
+- [x]  Generators
+- [ ]  Modules
+- [ ]  Macros
+- [ ]  Static Type Checker
 
 # What is new ?
 
